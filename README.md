@@ -10,8 +10,6 @@ All analysis made on the file: **"main.ipynb"**
 
 # Speed Dating with Tinder
 
-![Tinder](https://full-stack-assets.s3.eu-west-3.amazonaws.com/M03-EDA/Tinder-Symbole.png)
-
 ## Company's Description 📇
 
 [Tinder](https://tinder.com/) is an online dating and geosocial networking application. In Tinder, users "swipe right" to like or "swipe left" to dislike other users' profiles, which include their photos, a short bio, and a list of their interests.
